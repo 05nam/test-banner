@@ -1,0 +1,33 @@
+
+.bg1 {
+     background-image: url(https://wp.w3layouts.com/corpvision/wp-content/themes/corpvision/assets/images/b1.jpg);
+     background-size: cover;
+     background-repeat: no-repeat, no-repeat, no-repeat;
+     background-position: top;
+     height: 100%;
+    
+    }
+
+    .bg2 {
+      background: url(https://wp.w3layouts.com/corpvision/wp-content/themes/corpvision/assets/images/b2.jpg);
+      background-size: cover;
+      background-repeat: no-repeat, no-repeat, no-repeat;
+      background-position: top;
+      height: 100%;
+    }
+
+    .bg3 {
+      background: url(https://wp.w3layouts.com/corpvision/wp-content/themes/corpvision/assets/images/b3.jpg);
+      background-size: cover;
+      background-repeat: no-repeat, no-repeat, no-repeat;
+      background-position: top;
+      height: 100%;
+    }
+
+    .bg4 {
+      background: url(https://wp.w3layouts.com/corpvision/wp-content/themes/corpvision/assets/images/b4.jpg);
+      background-size: cover;
+      background-repeat: no-repeat, no-repeat, no-repeat;
+      background-position: top;
+      height: 100%;
+    }
